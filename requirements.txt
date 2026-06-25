@@ -1,10 +1,7 @@
-crewai
-crewai_tools
-langchain_community
-ipykernel
+crewai==0.1.7
+crewai-tools==0.1.6
+langchain-community
 python-dotenv
-jupyterlab 
-jupyter
-pdfkit
-markdown
 streamlit
+markdown
+pdfkit
