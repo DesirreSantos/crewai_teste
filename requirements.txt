@@ -1,7 +1,7 @@
-crewai==0.1.7
-crewai-tools==0.1.6
-langchain-community
+crewai
+crewai_tools
+langchain_community
 python-dotenv
-streamlit
-markdown
 pdfkit
+markdown
+streamlit
